@@ -1,0 +1,45 @@
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(56, 20, 218);
+    color: white;
+    padding-left: 10px;
+    border-style: double;
+}
+   
+.inside{
+    text-indent:20px;
+    line-height:25px;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+center{
+    font-style: oblique;
+    font-size: 40px;
+}
+#working{
+    font-size: 22px;
+}
+
+.second >p{
+    padding-left: 650px;
+    font-size: 20px;
+    line-height: 15px;
+    word-spacing: 5px;
+    
+}
+.third{
+    font-size: medium;
+    background-color: rgb(120, 118, 118);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px 60px;
+    font-size: 20px;
+}
+.third >imag{
+    margin-right:100px;
+}
